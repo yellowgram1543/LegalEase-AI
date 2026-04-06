@@ -38,5 +38,3 @@ Our app simplifies this process by providing **clear, actionable insights** whil
 👉 *LegalEase AI is your first line of defense against hidden risks in contracts — helping you stay informed, confident, and in control.*
 
 ---
-
-Do you want me to also draft a **shorter, one-liner tagline + elevator pitch** (something catchy you can use in hackathon slides)?
